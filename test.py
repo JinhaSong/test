@@ -1,0 +1,3 @@
+def test():
+	asdf
+	pass
